@@ -1,4 +1,4 @@
-# CS114
+# Máy học
 
 <p align="center">
    <a href="https://www.uit.edu.vn/">
