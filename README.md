@@ -18,8 +18,8 @@
 | 3 | [Lê Nguyễn Tiến Đạt](https://github.com/lenguyentiendat) | 20521167 | 20521167@gm.uit.edu.vn |
 
 ## Tổng hợp
-* Source code: [code](https://github.com/beetibao/CS114/blob/main/CS114_Trash_Classification.ipynb)
-* File báo cáo: [TrashClassification_Report.pdf](https://github.com/beetibao/CS114/blob/main/CS114_TrashClassification.pdf)
+* Source code: [code](https://github.com/lenguyentiendat/CS114/blob/main/CS114_Trash_Classification.ipynb)
+* File báo cáo: [TrashClassification_Report.pdf](https://github.com/lenguyentiendat/CS114/blob/main/CS114_TrashClassification.pdf)
 * Dataset: [Dataset](https://drive.google.com/drive/folders/1Q8_Lf4WAmG5liwTWXvCyb0F4seT4MOHF?usp=sharing)
 * Hình kết quả trên tập test: [Kết quả tập test](https://drive.google.com/drive/folders/10r2PK0sCLg5Yc848NnAPypgc3bllLl-0?usp=sharing)
 ## Giới thiệu đề tài
